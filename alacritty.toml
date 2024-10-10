@@ -1,0 +1,10 @@
+[window]
+startup_mode = "Maximized"
+padding = { x = 3, y = 3 }
+opacity = 0.9
+
+[font]
+size = 13
+
+[cursor]
+style = { blinking = "Always" }
